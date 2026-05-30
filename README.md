@@ -8,7 +8,7 @@ The purpose of HouseHunt is to streamline the real estate journey by providing a
 4.   Supporting Real Estate Professionals: HouseHunt serves as a marketing tool for real estate agents and brokers, offering them a platform to reach potential clients and showcase properties.
 5.   Creating a Transparent Marketplace: By providing clear, accurate property information, HouseHunt fosters transparency, ensuring that users have access to reliable data to make confident real estate decisions. Offering a Convenient, 24/7 Platform: HouseHunt is accessible anytime, anywhere, offering user
 
-**Status:** planning
+**Status:** review
 **Domain:** Real Estate
 **Progress:** 0%
 
